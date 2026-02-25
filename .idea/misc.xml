@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01-spring-boot-rest-crud/pom.xml" />
+        <option value="$PROJECT_DIR$/20-spring-boot-rest-crud-employee/pom.xml" />
+        <option value="$PROJECT_DIR$/50-openai-swagger-starter-projects-spring-data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/30-spring-boot-rest-crud-employee-with-spring-data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/40-spring-boot-rest-crud-employee-with-spring-data-jpa-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/50-openapi-swagger-starter-projects-spring-data-jpa/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-25" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
